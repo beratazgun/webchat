@@ -1,0 +1,43 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@tanstack/react-query": "^4.29.19",
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "@types/validator": "^13.7.17",
+    "autoprefixer": "10.4.14",
+    "lodash": "^4.17.21",
+    "next": "13.4.7",
+    "next-transpile-modules": "^10.0.0",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.1",
+    "react-hot-toast": "^2.4.1",
+    "socket.io-client": "^4.7.1",
+    "supports-color": "^9.4.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6",
+    "uuid": "^9.0.0",
+    "validator": "^13.9.0",
+    "zustand": "^4.3.8"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.195",
+    "@types/uuid": "^9.0.2"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10"
+  }
+}
